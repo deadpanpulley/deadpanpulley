@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deadpanpulley
 - 👀 I’m interested in computers and video edidting
-- 🌱 I’m currently learning premire pro
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on java projects
 - 📫@advickbhalla on instagram
 
