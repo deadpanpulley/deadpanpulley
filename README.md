@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @deadpanpulley
-- 👀 I’m interested in computers and video edidting
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on java projects
-- 📫@advickbhalla on instagram
+# Hi, I'm @deadpanpulley
 
-<!---
-deadpanpulley/deadpanpulley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🛠️ 16-year-old building iOS apps and software projects
+- 📱 app developer creating mobile applications
+- 💻 Interested in app development, AI, and tech innovation
+- I build Ai projects
+-  📲 @advickbhalla on instagram
